@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jul 19 16:23:04 ICT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Belajar\\android-using-kotlin-master\\MyAddressBook-starter\\app\\build\\intermediates\\assets\\debug
+0.path=mock_contacts.json
+0.set=ASSET
+count=1

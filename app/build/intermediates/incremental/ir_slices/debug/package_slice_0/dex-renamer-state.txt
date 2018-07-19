@@ -1,0 +1,4 @@
+#Thu Jul 19 16:23:28 ICT 2018
+base.0=D\:\\Belajar\\android-using-kotlin-master\\MyAddressBook-starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
